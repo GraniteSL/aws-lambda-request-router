@@ -6,6 +6,17 @@
   "author": "Rob Shaw <rob@borwahs.com>",
   "license": "MIT",
   "private": false,
+  "bugs": {
+    "url": "https://github.com/borwahs/aws-lambda-request-router/issues"
+  },
+  "homepage": "https://github.com/borwahs/aws-lambda-request-router#readme",
+  "keywords": [
+    "amazon",
+    "aws",
+    "lambda",
+    "apigateway",
+    "router"
+  ],
   "scripts": {
     "test": "jest"
   },
