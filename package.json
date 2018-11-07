@@ -1,0 +1,9 @@
+{
+  "name": "aws-lambda-request-router",
+  "version": "0.1.0",
+  "description": "Lightweight HTTP router for AWS Lambda functions using API Gateway as proxy.",
+  "main": "index.js",
+  "author": "Rob Shaw <rob@borwahs.com>",
+  "license": "MIT",
+  "private": false
+}
