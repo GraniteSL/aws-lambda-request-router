@@ -6,6 +6,9 @@
   "author": "Rob Shaw <rob@borwahs.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^23.6.0"
   }
